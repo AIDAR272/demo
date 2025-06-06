@@ -4,3 +4,10 @@ of central asia in freshman year
 
 and i like to play football 
 and also chess
+<<<<<<< HEAD
+=======
+
+salam aleikum
+jdapodjp j poadj dpoa
+464 654 6546 54 64
+>>>>>>> b0d956984d1e3779daf3e1801a4552ab9d2058d8
