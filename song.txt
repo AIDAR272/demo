@@ -1,15 +1,13 @@
-[Intro: Justin Timberlake]
-Mood right
-Mood
+my name is aidar nasirov and 
+i am a student at university 
+of central asia in freshman year
 
-[Verse 1]
-You say you got a girl
-Yeah, how you want me? How you want me when you got a girl?
-The feelin' is reckless, of knowin' it's selfish
-And knowin' I'm desperate
-Gettin' all in your love, fallin' all over love, like
-Do it 'til it hurts less
-Hangin' out the back, all up in your lap
-Like, is you comin' home? Is you out with her?
-I don't care long as you here by 10:30, no later than
-Drop them drawers, give me what I want
+and i like to play football 
+and also chess
+<<<<<<< HEAD
+=======
+
+salam aleikum
+jdapodjp j poadj dpoa
+464 654 6546 54 64
+>>>>>>> b0d956984d1e3779daf3e1801a4552ab9d2058d8
