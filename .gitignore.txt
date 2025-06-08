@@ -1,0 +1,4 @@
+*.de
+*.log
+target
+bin
